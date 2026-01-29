@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2026-01-23",
+    "entry": "I felt energetic and completed many tasks today.",
+    "sentiment_label": "POSITIVE",
+    "sentiment_score": 0.9992617964744568,
+    "mood_value": 0.9992617964744568
+  },
+  {
+    "date": "2026-01-24",
+    "entry": "I was anxious about my deadlines and felt pressured.",
+    "sentiment_label": "NEGATIVE",
+    "sentiment_score": 0.9880796074867249,
+    "mood_value": -0.9880796074867249
+  },
+  {
+    "date": "2026-01-25",
+    "entry": "Had a normal day, nothing special happened.",
+    "sentiment_label": "NEGATIVE",
+    "sentiment_score": 0.9932798743247986,
+    "mood_value": -0.9932798743247986
+  },
+  {
+    "date": "2026-01-26",
+    "entry": "I enjoyed spending time with my friends and felt happy.",
+    "sentiment_label": "POSITIVE",
+    "sentiment_score": 0.9995269775390625,
+    "mood_value": 0.9995269775390625
+  },
+  {
+    "date": "2026-01-27",
+    "entry": "I felt tired and bored throughout the day.",
+    "sentiment_label": "NEGATIVE",
+    "sentiment_score": 0.9975746273994446,
+    "mood_value": -0.9975746273994446
+  },
+  {
+    "date": "2026-01-28",
+    "entry": "I was stressed in the morning but relaxed in the evening.",
+    "sentiment_label": "POSITIVE",
+    "sentiment_score": 0.9923384189605713,
+    "mood_value": 0.9923384189605713
+  },
+  {
+    "date": "2026-01-29",
+    "entry": "Today was amazing, I feel confident and motivated.",
+    "sentiment_label": "POSITIVE",
+    "sentiment_score": 0.9996547698974609,
+    "mood_value": 0.9996547698974609
+  }
+]
